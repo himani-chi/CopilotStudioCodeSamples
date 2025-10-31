@@ -1,0 +1,18 @@
+# keep secrets local
+appsettings.json
+
+# user-specific VS settings
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# build output
+bin/
+obj/
+[Aa]rtifacts/
+Debug/
+Release/
+
+# VS junk
+.vs/
